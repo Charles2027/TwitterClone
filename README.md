@@ -1,4 +1,5 @@
 # TwitterClone
+- A Simple Full Stack Decentralized social media application ,where users can post , see feed , delete their post .
 
 ## Technology Stack & Tools
 
